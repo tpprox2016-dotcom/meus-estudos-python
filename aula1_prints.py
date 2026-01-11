@@ -1,0 +1,5 @@
+print("sacola", "trabalho", "vermelho", sep=",",end=" ")
+print("estádio", end=".")
+print("estudo", "garrafa", "azul", sep="-") 
+print("abc")
+print("leite")
